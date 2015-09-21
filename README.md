@@ -1,4 +1,4 @@
-# blurMBProgressHUD
+# BlurMBProgressHUD
 extension of MBProgressHUD for matching iOS8 &amp; later with beauty blur external appearance and it's easy to go 
 
 ![image](https://raw.githubusercontent.com/litt1e-p/blurMBProgressHUD/master/ScreenShot/1A2698C8-3BAA-482B-A318-B3814C45D168.jpg)
